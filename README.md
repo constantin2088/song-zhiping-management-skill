@@ -1,3 +1,11 @@
+<!-- SERIES:START -->
+> **属于 [Chinese Thinkers as Skills 系列](https://github.com/constantin2088/chinese-thinkers-skills)** · [完整作品目录](https://github.com/constantin2088/chinese-thinkers-skills#作品目录)
+
+**相关推荐**：[梁启超·自新与变局](https://github.com/constantin2088/liang-qichao-skill) · [叶茂中·冲突营销](https://github.com/constantin2088/ye-maozhong-skill) · [陈寅恪·深度研究](https://github.com/constantin2088/chen-yinke-research-skill) · [蔡元培·多元协作](https://github.com/constantin2088/cai-yuanpei-skill) · [许倬云·系统思维](https://github.com/constantin2088/xu-zhuoyun-systems-skill)
+
+> 系列入口与推荐由总仓库 catalog/skills.json 生成。
+<!-- SERIES:END -->
+
 # 宋志平·经营管理
 
 经营决策、精细管理、组织效率：有资料依据、有使用边界、可复核的中文 Agent Skill。
